@@ -1,0 +1,29 @@
+
+https://github.com/neruneru2021/JavaScript.git
+
+
+1. git init, git clone
+2.
+3. git add
+4. git commit
+
+5. git push
+
+///////////////////////////////
+mkdir awesome
+cd awesome
+git init
+
+git add Memo.txt
+
+git commit -m "add new file"
+
+git status
+
+git remote add origin https://github.com/neruneru2021/JavaScript.git
+
+git push origin master
+
+
+
+
